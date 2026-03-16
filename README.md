@@ -1,7 +1,8 @@
 
-# 🧠 Evolutionary Co-Optimization of Data Augmentation and Learning Dynamics for Robust Brain Tumor MRI Classification
+# 🧠 ETDACVO: Adaptive Evolutionary Optimization for Medical Image Learning
 
-**ETDACVO (Enhanced Tasmanian Devil Anti-Conservative Variable Optimization)** is a hybrid evolutionary optimization framework designed to improve **training stability, cross-domain robustness, and anatomical fidelity** in deep learning systems for **medical image analysis**.
+**ETDACVO (Enhanced Tasmanian Devil Anti-Conservative Variable Optimization)**  
+is a hybrid evolutionary optimization framework designed to improve **training stability, cross-domain robustness, and anatomical fidelity** in deep learning systems for **medical image analysis**.
 
 The framework co-optimizes **data augmentation strategies and optimizer dynamics** within a unified evolutionary loop, enabling robust learning under heterogeneous medical imaging conditions.
 
@@ -165,24 +166,26 @@ experiments/runtime_log.csv
 
 ---
 
-# 📂 Repository Structure
+# ## 📂 Repository Structure
 
-ETDACVO-Medical-Image-Learning/
+```
 ETDACVO-Medical-Image-Learning/
 │
-├── configs/
-├── preprocessing/
-├── augmentation/
-├── optimizer/
-├── models/
-├── training/
-├── experiments/
-├── analysis/
-├── utils/
+├── configs/           # Experiment configuration files
+├── preprocessing/     # MRI preprocessing pipeline
+├── augmentation/      # Data augmentation modules
+├── optimizer/         # ETDACVO optimizer (TDO, ACVO, EWMA)
+├── models/            # CNN, ViT, and hybrid architectures
+├── training/          # Training and evolutionary optimization
+├── experiments/       # Scripts to reproduce experiments
+├── analysis/          # Performance analysis and plots
+├── utils/             # Utility functions
 │
-├── requirements.txt
-├── setup.py
-└── README.md
+├── requirements.txt   # Python dependencies
+├── setup.py           # Package installer
+└── README.md          # Project documentation
+```
+
 
 ---
 
