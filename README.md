@@ -202,7 +202,7 @@ If you use this repository in research, please cite:
 @article{,
   title={Evolutionary Co-Optimization of Data Augmentation and Learning Dynamics for Robust Brain Tumor MRI Classification},
   author={Indrakumar, K. et al.},
-  journal={Under Review},
+  journal={ },
   year={2026}
 }
 
