@@ -1,5 +1,5 @@
 
-# 🧠 ETDACVO: Adaptive Evolutionary Optimization for Medical Image Learning
+# 🧠 Evolutionary Co-Optimization of Data Augmentation and Learning Dynamics for Robust Brain Tumor MRI Classification
 
 **ETDACVO (Enhanced Tasmanian Devil Anti-Conservative Variable Optimization)**  
 is a hybrid evolutionary optimization framework designed to improve **training stability, cross-domain robustness, and anatomical fidelity** in deep learning systems for **medical image analysis**.
