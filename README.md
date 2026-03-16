@@ -1,8 +1,7 @@
 
 # 🧠 Evolutionary Co-Optimization of Data Augmentation and Learning Dynamics for Robust Brain Tumor MRI Classification
 
-**ETDACVO (Enhanced Tasmanian Devil Anti-Conservative Variable Optimization)**  
-is a hybrid evolutionary optimization framework designed to improve **training stability, cross-domain robustness, and anatomical fidelity** in deep learning systems for **medical image analysis**.
+**ETDACVO (Enhanced Tasmanian Devil Anti-Conservative Variable Optimization)** is a hybrid evolutionary optimization framework designed to improve **training stability, cross-domain robustness, and anatomical fidelity** in deep learning systems for **medical image analysis**.
 
 The framework co-optimizes **data augmentation strategies and optimizer dynamics** within a unified evolutionary loop, enabling robust learning under heterogeneous medical imaging conditions.
 
