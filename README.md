@@ -193,8 +193,8 @@ ETDACVO-Medical-Image-Learning/
 
 If you use this repository in research, please cite:
 
-@article{indrakumar2026etdacvo,
-  title={ETDACVO: Enhanced Tasmanian Devil Anti-Conservative Variable Optimization for Cross-Domain Medical Image Learning},
+@article{,
+  title={Evolutionary Co-Optimization of Data Augmentation and Learning Dynamics for Robust Brain Tumor MRI Classification},
   author={Indrakumar, K. et al.},
   journal={Under Review},
   year={2026}
